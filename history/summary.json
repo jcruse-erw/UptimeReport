@@ -12,7 +12,7 @@
     "url": "https://syntax-systems.com",
     "slug": "syntax",
     "status": "up",
-    "uptime": "91.82%",
+    "uptime": "94.47%",
     "time": 2262
   },
   {
@@ -35,8 +35,8 @@
     "name": "scnem3",
     "url": "https://scnem3.com",
     "slug": "scnem3",
-    "status": "up",
-    "uptime": "92.61%",
-    "time": 748
+    "status": "down",
+    "uptime": "94.96%",
+    "time": 753
   }
 ]
