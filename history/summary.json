@@ -5,14 +5,14 @@
     "slug": "e-raumwerk-gmb-h",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1010
+    "time": 1033
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "Syntax Systems",
+    "url": "https://syntax-systems.com",
+    "slug": "syntax-systems",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
+    "time": 2197
   }
 ]
