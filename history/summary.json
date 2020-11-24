@@ -11,17 +11,17 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "down",
-    "uptime": "95.87%",
-    "time": 1908
+    "status": "up",
+    "uptime": "95.97%",
+    "time": 1985
   },
   {
     "name": "scnem",
     "url": "https://scnem.com",
     "slug": "scnem",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 703
+    "status": "down",
+    "uptime": "99.97%",
+    "time": 668
   },
   {
     "name": "scnem2",
@@ -36,7 +36,7 @@
     "url": "https://scnem3.com",
     "slug": "scnem3",
     "status": "up",
-    "uptime": "96.31%",
+    "uptime": "96.37%",
     "time": 756
   }
 ]
