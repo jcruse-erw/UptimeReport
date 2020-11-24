@@ -1,18 +1,42 @@
 [
   {
-    "name": "e-raumwerk GmbH",
+    "name": "erw",
     "url": "https://e-raumwerk.de",
-    "slug": "e-raumwerk-gmb-h",
+    "slug": "erw",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1033
+    "time": 1031
   },
   {
-    "name": "Syntax Systems",
+    "name": "syntax",
     "url": "https://syntax-systems.com",
-    "slug": "syntax-systems",
+    "slug": "syntax",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2197
+    "time": 2053
+  },
+  {
+    "name": "scnem",
+    "url": "https://scnem.com",
+    "slug": "scnem",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 665
+  },
+  {
+    "name": "scnem2",
+    "url": "https://scnem2.com",
+    "slug": "scnem2",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 766
+  },
+  {
+    "name": "scnem3",
+    "url": "https://scnem3.com",
+    "slug": "scnem3",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 831
   }
 ]
