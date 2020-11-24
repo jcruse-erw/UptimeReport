@@ -4,10 +4,16 @@ repo: UptimeReport # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: e-raumwerk GmbH
+  - name: erw
     url: https://e-raumwerk.de
-  - name: Syntax Systems
+  - name: syntax
     url: https://syntax-systems.com
+  - name: scnem
+    url: https://scnem.com
+  - name: scnem2
+    url: https://scnem2.com
+  - name: scnem3
+    url: https://scnem3.com
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
