@@ -6,8 +6,8 @@ repo: UptimeReport # Your Github repository name
 sites:
   - name: e-raumwerk GmbH
     url: https://e-raumwerk.de
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Syntax Systems
+    url: https://syntax-systems.com
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
