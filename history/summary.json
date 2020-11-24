@@ -19,9 +19,9 @@
     "name": "scnem",
     "url": "https://scnem.com",
     "slug": "scnem",
-    "status": "down",
-    "uptime": "99.68%",
-    "time": 712
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 703
   },
   {
     "name": "scnem2",
@@ -36,7 +36,7 @@
     "url": "https://scnem3.com",
     "slug": "scnem3",
     "status": "up",
-    "uptime": "73.13%",
+    "uptime": "76.49%",
     "time": 748
   }
 ]
