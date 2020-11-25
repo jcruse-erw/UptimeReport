@@ -14,6 +14,15 @@ sites:
     url: https://scnem2.com
   - name: scnem3
     url: https://scnem3.com
+  - name: GBS
+    url: http://www.geburtshaus-soest.de
+  - name: Audience
+    url: http://www.audience-soest.de
+  - name: imp
+    url: https://www.impuls.com
+  - name: seeva
+    url: https://seeva.e-raumwerk.de
+  
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
