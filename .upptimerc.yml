@@ -17,7 +17,7 @@ sites:
   - name: geb haus soe
     url: http://www.geburtshaus-soest.de
   - name: audience
-    url: http://www.audience-soest.de
+    url: https://www.audience-soest.de
   - name: impu
     url: https://www.impuls.com
   - name: seeva
