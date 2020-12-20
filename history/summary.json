@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1067
+    "time": 1064
   },
   {
     "name": "syntax",
@@ -13,22 +13,22 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.94%",
-    "time": 2119
+    "time": 2121
   },
   {
     "name": "scnem",
     "url": "https://scnem.com",
     "slug": "scnem",
     "status": "up",
-    "uptime": "99.79%",
-    "time": 760
+    "uptime": "99.80%",
+    "time": 758
   },
   {
     "name": "scnem2",
     "url": "https://scnem2.com",
     "slug": "scnem2",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "time": 743
   },
   {
@@ -36,16 +36,16 @@
     "url": "https://scnem3.com",
     "slug": "scnem3",
     "status": "up",
-    "uptime": "99.84%",
-    "time": 724
+    "uptime": "99.85%",
+    "time": 725
   },
   {
     "name": "geb haus soe",
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "99.34%",
-    "time": 1044
+    "uptime": "99.37%",
+    "time": 1036
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.98%",
-    "time": 2252
+    "time": 2273
   },
   {
     "name": "impu",
@@ -61,7 +61,7 @@
     "slug": "impu",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1516
+    "time": 1539
   },
   {
     "name": "seeva",
@@ -69,6 +69,6 @@
     "slug": "seeva",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1071
+    "time": 1072
   }
 ]
