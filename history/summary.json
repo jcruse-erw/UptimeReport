@@ -28,7 +28,7 @@
     "url": "https://scnem2.com",
     "slug": "scnem2",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "time": 739
   },
   {
@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "time": 2203
+    "time": 2225
   },
   {
     "name": "impu",
