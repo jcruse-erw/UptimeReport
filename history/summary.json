@@ -3,9 +3,9 @@
     "name": "erw",
     "url": "https://e-raumwerk.de",
     "slug": "erw",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 943
+    "status": "up",
+    "uptime": "99.95%",
+    "time": 941
   },
   {
     "name": "syntax",
@@ -44,7 +44,7 @@
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "97.38%",
+    "uptime": "97.39%",
     "time": 886
   },
   {
