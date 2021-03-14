@@ -35,16 +35,16 @@
     "name": "scnem3",
     "url": "https://scnem3.com",
     "slug": "scnem3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "time": 664
+    "time": 655
   },
   {
     "name": "geb haus soe",
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.57%",
     "time": 893
   },
   {
