@@ -27,9 +27,9 @@
     "name": "scnem2",
     "url": "https://scnem2.com",
     "slug": "scnem2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "time": 672
+    "time": 664
   },
   {
     "name": "scnem3",
@@ -44,7 +44,7 @@
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.96%",
     "time": 803
   },
   {
