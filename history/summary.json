@@ -20,7 +20,7 @@
     "url": "https://scnem.com",
     "slug": "scnem",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "time": 680
   },
   {
@@ -44,7 +44,7 @@
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "time": 822
   },
   {
@@ -59,9 +59,9 @@
     "name": "impu",
     "url": "https://www.impuls.com",
     "slug": "impu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1394
+    "time": 1384
   },
   {
     "name": "seeva",
