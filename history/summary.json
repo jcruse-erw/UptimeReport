@@ -11,49 +11,49 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "time": 2018
+    "time": 2009
   },
   {
     "name": "scnem",
     "url": "https://scnem.com",
     "slug": "scnem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 649
+    "time": 648
   },
   {
     "name": "scnem2",
     "url": "https://scnem2.com",
     "slug": "scnem2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "time": 652
+    "time": 651
   },
   {
     "name": "scnem3",
     "url": "https://scnem3.com",
     "slug": "scnem3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 628
+    "time": 627
   },
   {
     "name": "geb haus soe",
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "time": 939
   },
   {
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 2147
+    "time": 2140
   },
   {
     "name": "impu",
