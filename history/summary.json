@@ -28,7 +28,7 @@
     "url": "https://scnem2.com",
     "slug": "scnem2",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "time": 647
   },
   {
@@ -44,16 +44,16 @@
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "time": 961
   },
   {
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 2137
+    "time": 2116
   },
   {
     "name": "impu",
