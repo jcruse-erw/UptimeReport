@@ -4,7 +4,7 @@
     "url": "https://e-raumwerk.de",
     "slug": "erw",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "time": 549
   },
   {
@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 2123
+    "time": 2099
   },
   {
     "name": "impu",
