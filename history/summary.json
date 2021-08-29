@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.96%",
-    "time": 560
+    "time": 559
   },
   {
     "name": "syntax",
@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.99%",
-    "time": 2119
+    "time": 2120
   },
   {
     "name": "scnem",
@@ -21,7 +21,7 @@
     "slug": "scnem",
     "status": "up",
     "uptime": "99.98%",
-    "time": 631
+    "time": 630
   },
   {
     "name": "scnem2",
@@ -37,15 +37,15 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.99%",
-    "time": 608
+    "time": 607
   },
   {
     "name": "geb haus soe",
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "down",
-    "uptime": "98.11%",
-    "time": 969
+    "uptime": "97.75%",
+    "time": 961
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.98%",
-    "time": 2113
+    "time": 2111
   },
   {
     "name": "impu",
@@ -61,14 +61,14 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.97%",
-    "time": 1962
+    "time": 1955
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "97.00%",
+    "uptime": "97.01%",
     "time": 963
   }
 ]
