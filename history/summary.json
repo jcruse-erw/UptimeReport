@@ -43,8 +43,8 @@
     "name": "geb haus soe",
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
-    "status": "down",
-    "uptime": "97.40%",
+    "status": "up",
+    "uptime": "97.23%",
     "time": 953
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "97.02%",
+    "uptime": "97.03%",
     "time": 968
   }
 ]
