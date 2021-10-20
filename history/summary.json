@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.99%",
-    "time": 2356
+    "time": 2358
   },
   {
     "name": "scnem",
@@ -21,7 +21,7 @@
     "slug": "scnem",
     "status": "up",
     "uptime": "99.99%",
-    "time": 665
+    "time": 664
   },
   {
     "name": "scnem2",
@@ -37,15 +37,15 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.99%",
-    "time": 625
+    "time": 623
   },
   {
     "name": "geb haus soe",
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "96.98%",
-    "time": 745
+    "uptime": "96.99%",
+    "time": 742
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.98%",
-    "time": 2237
+    "time": 2234
   },
   {
     "name": "impu",
@@ -69,6 +69,6 @@
     "slug": "seeva",
     "status": "up",
     "uptime": "97.48%",
-    "time": 969
+    "time": 970
   }
 ]
