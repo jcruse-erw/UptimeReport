@@ -22,6 +22,8 @@ sites:
     url: https://www.impuls.com
   - name: seeva
     url: https://seeva.e-raumwerk.de
+  - name: brandmaker
+    url: https://brandmaker.azurewebsites.net
   
 
 status-website:
