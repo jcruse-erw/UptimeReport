@@ -1,7 +1,7 @@
 url: https://brandmaker.azurewebsites.net  
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2021-11-24T23:08:13.738Z
+status: down
+code: 500
+responseTime: 10823
+lastUpdated: 2021-11-25T09:35:45.579Z
 startTime: Mon Nov 22 2021 17:22:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
