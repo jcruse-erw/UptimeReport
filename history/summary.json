@@ -75,8 +75,8 @@
     "name": "brandmaker",
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 2897
+    "time": 2554
   }
 ]
