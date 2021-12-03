@@ -11,9 +11,9 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "time": 2398
+    "time": 2392
   },
   {
     "name": "scnem",
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "down",
-    "uptime": "87.74%",
+    "uptime": "87.70%",
     "time": 633
   },
   {
