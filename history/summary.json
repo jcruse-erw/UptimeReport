@@ -11,8 +11,8 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "down",
-    "uptime": "99.99%",
+    "status": "up",
+    "uptime": "99.96%",
     "time": 2392
   },
   {
@@ -44,7 +44,7 @@
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.35%",
     "time": 627
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "down",
-    "uptime": "87.70%",
+    "uptime": "87.67%",
     "time": 633
   },
   {
