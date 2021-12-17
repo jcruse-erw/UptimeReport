@@ -83,8 +83,8 @@
     "name": "sc er",
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
-    "status": "down",
-    "uptime": "75.34%",
-    "time": 0
+    "status": "up",
+    "uptime": "0.57%",
+    "time": 669
   }
 ]
