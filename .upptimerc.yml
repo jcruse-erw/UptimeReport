@@ -24,6 +24,8 @@ sites:
     url: https://seeva.e-raumwerk.de
   - name: brandmaker
     url: https://brandmaker.azurewebsites.net
+  - name: sc er
+    url: https://sc-networks.azurewebsites.net/
   
 
 status-website:
