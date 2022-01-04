@@ -44,7 +44,7 @@
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "time": 660
   },
   {
@@ -59,16 +59,16 @@
     "name": "impu",
     "url": "https://www.impuls.com",
     "slug": "impu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 1276
+    "time": 1265
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "87.86%",
+    "uptime": "87.88%",
     "time": 578
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.45%",
     "time": 765
   }
 ]
