@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.97%",
-    "time": 2229
+    "time": 2220
   },
   {
     "name": "scnem",
@@ -45,7 +45,7 @@
     "slug": "geb-haus-soe",
     "status": "up",
     "uptime": "98.00%",
-    "time": 641
+    "time": 640
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.96%",
-    "time": 2098
+    "time": 2087
   },
   {
     "name": "impu",
@@ -61,15 +61,15 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.98%",
-    "time": 1202
+    "time": 1197
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "87.47%",
-    "time": 903
+    "uptime": "87.50%",
+    "time": 906
   },
   {
     "name": "brandmaker",
@@ -77,7 +77,7 @@
     "slug": "brandmaker",
     "status": "up",
     "uptime": "100.00%",
-    "time": 762
+    "time": 763
   },
   {
     "name": "sc er",
