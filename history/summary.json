@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.93%",
-    "time": 521
+    "time": 527
   },
   {
     "name": "syntax",
@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.97%",
-    "time": 2220
+    "time": 2237
   },
   {
     "name": "scnem",
@@ -21,7 +21,7 @@
     "slug": "scnem",
     "status": "up",
     "uptime": "99.98%",
-    "time": 661
+    "time": 665
   },
   {
     "name": "scnem2",
@@ -29,7 +29,7 @@
     "slug": "scnem2",
     "status": "up",
     "uptime": "99.92%",
-    "time": 652
+    "time": 657
   },
   {
     "name": "scnem3",
@@ -37,15 +37,15 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.98%",
-    "time": 628
+    "time": 632
   },
   {
     "name": "geb haus soe",
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "98.00%",
-    "time": 640
+    "uptime": "98.01%",
+    "time": 648
   },
   {
     "name": "audience",
@@ -61,15 +61,15 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.98%",
-    "time": 1197
+    "time": 1203
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "87.50%",
-    "time": 906
+    "uptime": "87.52%",
+    "time": 908
   },
   {
     "name": "brandmaker",
@@ -77,14 +77,14 @@
     "slug": "brandmaker",
     "status": "up",
     "uptime": "100.00%",
-    "time": 763
+    "time": 764
   },
   {
     "name": "sc er",
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "time": 792
   }
 ]
