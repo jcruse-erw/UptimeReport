@@ -26,6 +26,12 @@ sites:
     url: https://brandmaker.azurewebsites.net
   - name: sc er
     url: https://sc-networks.azurewebsites.net/
+  - name: stodden
+    url: https://stodden.de/   
+  - name: snello1
+    url: https://snello-demo-live.azurewebsites.net/
+  - name: snello2
+    url: https://snello.azurewebsites.net/
   
 
 status-website:
