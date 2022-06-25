@@ -51,7 +51,7 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "time": 1864
   },
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "down",
-    "uptime": "87.89%",
+    "uptime": "87.85%",
     "time": 1002
   },
   {
