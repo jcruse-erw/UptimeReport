@@ -3,9 +3,9 @@
     "name": "erw",
     "url": "https://e-raumwerk.de",
     "slug": "erw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "time": 567
+    "time": 563
   },
   {
     "name": "syntax",
@@ -43,9 +43,9 @@
     "name": "geb haus soe",
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
-    "status": "up",
+    "status": "down",
     "uptime": "98.20%",
-    "time": 716
+    "time": 707
   },
   {
     "name": "audience",
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "down",
-    "uptime": "86.98%",
+    "uptime": "86.90%",
     "time": 930
   },
   {
@@ -91,9 +91,9 @@
     "name": "stodden",
     "url": "https://stodden.de/",
     "slug": "stodden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "time": 665
+    "time": 659
   },
   {
     "name": "snello1",
