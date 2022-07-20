@@ -59,16 +59,16 @@
     "name": "impu",
     "url": "https://www.impuls.com",
     "slug": "impu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "time": 1274
+    "time": 1263
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "down",
-    "uptime": "84.22%",
+    "uptime": "84.15%",
     "time": 724
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "time": 752
   }
 ]
