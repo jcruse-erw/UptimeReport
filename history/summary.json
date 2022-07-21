@@ -60,7 +60,7 @@
     "url": "https://www.impuls.com",
     "slug": "impu",
     "status": "down",
-    "uptime": "99.90%",
+    "uptime": "99.88%",
     "time": 1263
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "down",
-    "uptime": "84.10%",
+    "uptime": "84.08%",
     "time": 713
   },
   {
@@ -91,9 +91,9 @@
     "name": "stodden",
     "url": "https://stodden.de/",
     "slug": "stodden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "time": 624
+    "time": 615
   },
   {
     "name": "snello1",
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "time": 759
   }
 ]
