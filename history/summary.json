@@ -59,16 +59,16 @@
     "name": "impu",
     "url": "https://www.impuls.com",
     "slug": "impu",
-    "status": "down",
-    "uptime": "99.87%",
-    "time": 1263
+    "status": "up",
+    "uptime": "99.86%",
+    "time": 1266
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "down",
-    "uptime": "84.08%",
+    "uptime": "84.07%",
     "time": 713
   },
   {
