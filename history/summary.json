@@ -60,7 +60,7 @@
     "url": "https://www.impuls.com",
     "slug": "impu",
     "status": "down",
-    "uptime": "99.88%",
+    "uptime": "99.87%",
     "time": 1263
   },
   {
@@ -91,9 +91,9 @@
     "name": "stodden",
     "url": "https://stodden.de/",
     "slug": "stodden",
-    "status": "down",
-    "uptime": "99.87%",
-    "time": 615
+    "status": "up",
+    "uptime": "99.80%",
+    "time": 613
   },
   {
     "name": "snello1",
