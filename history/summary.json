@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "time": 1798
+    "time": 1737
   },
   {
     "name": "impu",
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.62%",
     "time": 761
   }
 ]
