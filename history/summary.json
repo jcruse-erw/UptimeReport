@@ -44,16 +44,16 @@
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.35%",
     "time": 872
   },
   {
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "time": 1765
+    "time": 1744
   },
   {
     "name": "impu",
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "84.84%",
+    "uptime": "84.85%",
     "time": 730
   },
   {
