@@ -27,9 +27,9 @@
     "name": "scnem2",
     "url": "https://scnem2.com",
     "slug": "scnem2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "time": 665
+    "time": 659
   },
   {
     "name": "scnem3",
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "time": 786
   }
 ]
