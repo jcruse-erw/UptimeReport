@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.94%",
-    "time": 563
+    "time": 565
   },
   {
     "name": "syntax",
@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.97%",
-    "time": 1995
+    "time": 1992
   },
   {
     "name": "scnem",
@@ -28,8 +28,8 @@
     "url": "https://scnem2.com",
     "slug": "scnem2",
     "status": "up",
-    "uptime": "99.93%",
-    "time": 661
+    "uptime": "99.94%",
+    "time": 663
   },
   {
     "name": "scnem3",
@@ -37,7 +37,7 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.98%",
-    "time": 652
+    "time": 655
   },
   {
     "name": "geb haus soe",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.91%",
-    "time": 1816
+    "time": 1822
   },
   {
     "name": "impu",
@@ -61,15 +61,15 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.87%",
-    "time": 1321
+    "time": 1323
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "84.96%",
-    "time": 710
+    "uptime": "84.98%",
+    "time": 705
   },
   {
     "name": "brandmaker",
@@ -93,7 +93,7 @@
     "slug": "stodden",
     "status": "up",
     "uptime": "99.88%",
-    "time": 599
+    "time": 601
   },
   {
     "name": "snello1",
@@ -101,14 +101,14 @@
     "slug": "snello1",
     "status": "up",
     "uptime": "99.91%",
-    "time": 1762
+    "time": 1761
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "time": 789
   }
 ]
