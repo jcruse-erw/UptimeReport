@@ -43,9 +43,9 @@
     "name": "geb haus soe",
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
-    "status": "down",
-    "uptime": "98.37%",
-    "time": 913
+    "status": "up",
+    "uptime": "98.34%",
+    "time": 911
   },
   {
     "name": "audience",
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "time": 758
   }
 ]
