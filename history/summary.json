@@ -59,9 +59,9 @@
     "name": "impu",
     "url": "https://www.impuls.com",
     "slug": "impu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "time": 1318
+    "time": 1301
   },
   {
     "name": "seeva",
