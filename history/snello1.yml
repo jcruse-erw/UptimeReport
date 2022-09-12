@@ -1,7 +1,7 @@
 url: https://snello-demo-live.azurewebsites.net/  
-status: down
-code: 502
-responseTime: 1105
-lastUpdated: 2022-09-12T23:36:37.164Z
+status: up
+code: 200
+responseTime: 971
+lastUpdated: 2022-09-12T23:53:47.875Z
 startTime: Fri May 27 2022 09:11:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
