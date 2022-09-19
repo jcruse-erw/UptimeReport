@@ -51,7 +51,7 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "time": 1680
   },
@@ -92,7 +92,7 @@
     "url": "https://stodden.de/",
     "slug": "stodden",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "time": 540
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "time": 777
   }
 ]
