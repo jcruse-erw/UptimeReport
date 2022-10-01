@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.94%",
-    "time": 531
+    "time": 533
   },
   {
     "name": "syntax",
@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.97%",
-    "time": 2065
+    "time": 2075
   },
   {
     "name": "scnem",
@@ -21,7 +21,7 @@
     "slug": "scnem",
     "status": "up",
     "uptime": "99.99%",
-    "time": 657
+    "time": 658
   },
   {
     "name": "scnem2",
@@ -37,7 +37,7 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.98%",
-    "time": 653
+    "time": 655
   },
   {
     "name": "geb haus soe",
@@ -45,7 +45,7 @@
     "slug": "geb-haus-soe",
     "status": "up",
     "uptime": "98.41%",
-    "time": 899
+    "time": 878
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.88%",
-    "time": 1754
+    "time": 1756
   },
   {
     "name": "impu",
@@ -61,15 +61,15 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.82%",
-    "time": 1270
+    "time": 1268
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "85.73%",
-    "time": 808
+    "uptime": "85.76%",
+    "time": 818
   },
   {
     "name": "brandmaker",
@@ -77,7 +77,7 @@
     "slug": "brandmaker",
     "status": "up",
     "uptime": "100.00%",
-    "time": 772
+    "time": 771
   },
   {
     "name": "sc er",
@@ -85,7 +85,7 @@
     "slug": "sc-er",
     "status": "up",
     "uptime": "99.96%",
-    "time": 792
+    "time": 791
   },
   {
     "name": "stodden",
@@ -93,7 +93,7 @@
     "slug": "stodden",
     "status": "up",
     "uptime": "99.91%",
-    "time": 539
+    "time": 540
   },
   {
     "name": "snello1",
@@ -101,14 +101,14 @@
     "slug": "snello1",
     "status": "up",
     "uptime": "99.93%",
-    "time": 1543
+    "time": 1545
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "99.21%",
-    "time": 795
+    "uptime": "99.22%",
+    "time": 797
   }
 ]
