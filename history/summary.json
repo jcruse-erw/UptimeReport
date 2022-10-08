@@ -20,7 +20,7 @@
     "url": "https://scnem.com",
     "slug": "scnem",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "time": 664
   },
   {
@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "time": 1831
+    "time": 1815
   },
   {
     "name": "impu",
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "85.90%",
+    "uptime": "85.91%",
     "time": 892
   },
   {
