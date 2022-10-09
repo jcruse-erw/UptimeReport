@@ -51,7 +51,7 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "time": 1812
   },
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "85.92%",
+    "uptime": "85.93%",
     "time": 901
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "time": 811
   }
 ]
