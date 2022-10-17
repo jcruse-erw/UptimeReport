@@ -99,16 +99,16 @@
     "name": "snello1",
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "time": 1183
+    "time": 1001
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "time": 823
   }
 ]
