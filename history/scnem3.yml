@@ -1,7 +1,7 @@
 url: https://scnem3.com  
-status: up
-code: 200
-responseTime: 465
-lastUpdated: 2022-10-19T23:14:04.292Z
+status: down
+code: 502
+responseTime: 494
+lastUpdated: 2022-10-20T07:06:32.218Z
 startTime: Wed Nov 25 2020 08:09:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
