@@ -11,31 +11,31 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "time": 2100
+    "time": 2090
   },
   {
     "name": "scnem",
     "url": "https://scnem.com",
     "slug": "scnem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "time": 656
+    "time": 654
   },
   {
     "name": "scnem2",
     "url": "https://scnem2.com",
     "slug": "scnem2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "time": 665
+    "time": 663
   },
   {
     "name": "scnem3",
     "url": "https://scnem3.com",
     "slug": "scnem3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "time": 720
   },
@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "time": 1917
+    "time": 1904
   },
   {
     "name": "impu",
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "down",
-    "uptime": "86.03%",
+    "uptime": "86.01%",
     "time": 1011
   },
   {
