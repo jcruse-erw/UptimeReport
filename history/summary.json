@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "time": 1903
+    "time": 1892
   },
   {
     "name": "impu",
