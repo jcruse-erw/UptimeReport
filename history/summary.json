@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.94%",
-    "time": 552
+    "time": 554
   },
   {
     "name": "syntax",
@@ -21,7 +21,7 @@
     "slug": "scnem",
     "status": "up",
     "uptime": "99.98%",
-    "time": 654
+    "time": 656
   },
   {
     "name": "scnem2",
@@ -29,7 +29,7 @@
     "slug": "scnem2",
     "status": "up",
     "uptime": "99.93%",
-    "time": 665
+    "time": 667
   },
   {
     "name": "scnem3",
@@ -37,7 +37,7 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.98%",
-    "time": 718
+    "time": 720
   },
   {
     "name": "geb haus soe",
@@ -45,7 +45,7 @@
     "slug": "geb-haus-soe",
     "status": "up",
     "uptime": "98.49%",
-    "time": 920
+    "time": 921
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.84%",
-    "time": 1722
+    "time": 1750
   },
   {
     "name": "impu",
@@ -61,15 +61,15 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.83%",
-    "time": 1212
+    "time": 1217
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "down",
-    "uptime": "83.95%",
-    "time": 899
+    "uptime": "83.86%",
+    "time": 888
   },
   {
     "name": "brandmaker",
@@ -77,7 +77,7 @@
     "slug": "brandmaker",
     "status": "up",
     "uptime": "100.00%",
-    "time": 765
+    "time": 768
   },
   {
     "name": "sc er",
@@ -85,7 +85,7 @@
     "slug": "sc-er",
     "status": "up",
     "uptime": "99.97%",
-    "time": 790
+    "time": 793
   },
   {
     "name": "stodden",
@@ -93,7 +93,7 @@
     "slug": "stodden",
     "status": "up",
     "uptime": "99.93%",
-    "time": 546
+    "time": 545
   },
   {
     "name": "snello1",
@@ -101,7 +101,7 @@
     "slug": "snello1",
     "status": "up",
     "uptime": "99.92%",
-    "time": 873
+    "time": 876
   },
   {
     "name": "snello2",
@@ -109,6 +109,6 @@
     "slug": "snello2",
     "status": "up",
     "uptime": "99.39%",
-    "time": 865
+    "time": 871
   }
 ]
