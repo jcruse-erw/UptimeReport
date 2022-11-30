@@ -27,15 +27,15 @@
     "name": "scnem2",
     "url": "https://scnem2.com",
     "slug": "scnem2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "time": 665
+    "time": 664
   },
   {
     "name": "scnem3",
     "url": "https://scnem3.com",
     "slug": "scnem3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "time": 708
   },
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "84.02%",
+    "uptime": "84.03%",
     "time": 876
   },
   {
