@@ -44,14 +44,14 @@
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "down",
-    "uptime": "98.55%",
+    "uptime": "98.53%",
     "time": 682
   },
   {
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "time": 1482
   },
