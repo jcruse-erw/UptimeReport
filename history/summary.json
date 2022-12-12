@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "84.27%",
+    "uptime": "84.28%",
     "time": 882
   },
   {
@@ -99,16 +99,16 @@
     "name": "snello1",
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "time": 982
+    "time": 980
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "time": 955
   }
 ]
