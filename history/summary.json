@@ -51,16 +51,16 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "time": 1479
+    "time": 1451
   },
   {
     "name": "impu",
     "url": "https://www.impuls.com",
     "slug": "impu",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "time": 1144
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "84.35%",
+    "uptime": "84.37%",
     "time": 862
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "time": 956
   }
 ]
