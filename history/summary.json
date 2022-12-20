@@ -11,17 +11,17 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "time": 2280
+    "time": 2261
   },
   {
     "name": "scnem",
     "url": "https://scnem.com",
     "slug": "scnem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 647
+    "time": 650
   },
   {
     "name": "scnem2",
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "84.44%",
+    "uptime": "84.45%",
     "time": 876
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "time": 960
   }
 ]
