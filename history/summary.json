@@ -3,8 +3,8 @@
     "name": "erw",
     "url": "https://e-raumwerk.de",
     "slug": "erw",
-    "status": "down",
-    "uptime": "99.93%",
+    "status": "up",
+    "uptime": "99.89%",
     "time": 608
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "84.51%",
+    "uptime": "84.52%",
     "time": 882
   },
   {
