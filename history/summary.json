@@ -44,16 +44,16 @@
     "url": "http://www.geburtshaus-soest.de",
     "slug": "geb-haus-soe",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "time": 694
   },
   {
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "time": 1436
+    "time": 1409
   },
   {
     "name": "impu",
