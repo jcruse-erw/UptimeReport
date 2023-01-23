@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.97%",
-    "time": 2272
+    "time": 2281
   },
   {
     "name": "scnem",
@@ -21,7 +21,7 @@
     "slug": "scnem",
     "status": "up",
     "uptime": "99.98%",
-    "time": 656
+    "time": 658
   },
   {
     "name": "scnem2",
@@ -29,7 +29,7 @@
     "slug": "scnem2",
     "status": "up",
     "uptime": "99.94%",
-    "time": 643
+    "time": 645
   },
   {
     "name": "scnem3",
@@ -37,7 +37,7 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.98%",
-    "time": 625
+    "time": 627
   },
   {
     "name": "geb haus soe",
@@ -45,7 +45,7 @@
     "slug": "geb-haus-soe",
     "status": "up",
     "uptime": "98.55%",
-    "time": 670
+    "time": 667
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.80%",
-    "time": 1677
+    "time": 1700
   },
   {
     "name": "impu",
@@ -61,7 +61,7 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.84%",
-    "time": 1156
+    "time": 1158
   },
   {
     "name": "seeva",
@@ -69,7 +69,7 @@
     "slug": "seeva",
     "status": "up",
     "uptime": "85.11%",
-    "time": 890
+    "time": 894
   },
   {
     "name": "brandmaker",
@@ -77,7 +77,7 @@
     "slug": "brandmaker",
     "status": "up",
     "uptime": "100.00%",
-    "time": 806
+    "time": 808
   },
   {
     "name": "sc er",
@@ -85,7 +85,7 @@
     "slug": "sc-er",
     "status": "up",
     "uptime": "99.97%",
-    "time": 805
+    "time": 808
   },
   {
     "name": "stodden",
@@ -93,7 +93,7 @@
     "slug": "stodden",
     "status": "up",
     "uptime": "99.95%",
-    "time": 577
+    "time": 582
   },
   {
     "name": "snello1",
@@ -101,7 +101,7 @@
     "slug": "snello1",
     "status": "up",
     "uptime": "99.60%",
-    "time": 1326
+    "time": 1328
   },
   {
     "name": "snello2",
@@ -109,6 +109,6 @@
     "slug": "snello2",
     "status": "up",
     "uptime": "99.58%",
-    "time": 1023
+    "time": 1025
   }
 ]
