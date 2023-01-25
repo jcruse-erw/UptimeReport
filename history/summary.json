@@ -11,25 +11,25 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "time": 2309
+    "time": 2319
   },
   {
     "name": "scnem",
     "url": "https://scnem.com",
     "slug": "scnem",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "time": 657
+    "time": 689
   },
   {
     "name": "scnem2",
     "url": "https://scnem2.com",
     "slug": "scnem2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "time": 669
+    "time": 663
   },
   {
     "name": "scnem3",
@@ -67,7 +67,7 @@
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
-    "status": "up",
+    "status": "down",
     "uptime": "85.15%",
     "time": 907
   },
@@ -75,9 +75,9 @@
     "name": "brandmaker",
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 807
+    "time": 797
   },
   {
     "name": "sc er",
@@ -99,16 +99,16 @@
     "name": "snello1",
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "time": 1333
+    "time": 1323
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "time": 1027
+    "time": 1020
   }
 ]
