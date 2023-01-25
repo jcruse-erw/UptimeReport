@@ -12,7 +12,7 @@
     "url": "https://syntax-systems.com",
     "slug": "syntax",
     "status": "down",
-    "uptime": "99.97%",
+    "uptime": "99.96%",
     "time": 2303
   },
   {
@@ -27,17 +27,17 @@
     "name": "scnem2",
     "url": "https://scnem2.com",
     "slug": "scnem2",
-    "status": "down",
-    "uptime": "99.94%",
-    "time": 663
+    "status": "up",
+    "uptime": "99.93%",
+    "time": 665
   },
   {
     "name": "scnem3",
     "url": "https://scnem3.com",
     "slug": "scnem3",
-    "status": "down",
-    "uptime": "99.98%",
-    "time": 622
+    "status": "up",
+    "uptime": "99.97%",
+    "time": 624
   },
   {
     "name": "geb haus soe",
@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "down",
-    "uptime": "99.79%",
-    "time": 1655
+    "status": "up",
+    "uptime": "99.78%",
+    "time": 1662
   },
   {
     "name": "impu",
