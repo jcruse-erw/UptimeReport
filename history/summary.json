@@ -11,9 +11,9 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "time": 2360
+    "time": 2340
   },
   {
     "name": "scnem",
