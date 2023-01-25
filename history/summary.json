@@ -11,17 +11,17 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "time": 2319
+    "time": 2303
   },
   {
     "name": "scnem",
     "url": "https://scnem.com",
     "slug": "scnem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 689
+    "time": 683
   },
   {
     "name": "scnem2",
@@ -67,15 +67,15 @@
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
-    "status": "down",
+    "status": "up",
     "uptime": "85.15%",
-    "time": 907
+    "time": 915
   },
   {
     "name": "brandmaker",
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "time": 797
   },
@@ -99,15 +99,15 @@
     "name": "snello1",
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "time": 1323
+    "time": 1321
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
     "time": 1020
   }
