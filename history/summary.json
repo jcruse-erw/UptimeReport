@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.89%",
-    "time": 610
+    "time": 606
   },
   {
     "name": "syntax",
@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.96%",
-    "time": 2301
+    "time": 2312
   },
   {
     "name": "scnem",
@@ -45,7 +45,7 @@
     "slug": "geb-haus-soe",
     "status": "up",
     "uptime": "98.56%",
-    "time": 672
+    "time": 666
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.78%",
-    "time": 1456
+    "time": 1474
   },
   {
     "name": "impu",
@@ -61,15 +61,15 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.84%",
-    "time": 1150
+    "time": 1149
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "85.23%",
-    "time": 961
+    "uptime": "85.24%",
+    "time": 972
   },
   {
     "name": "brandmaker",
@@ -85,7 +85,7 @@
     "slug": "sc-er",
     "status": "up",
     "uptime": "99.97%",
-    "time": 815
+    "time": 816
   },
   {
     "name": "stodden",
@@ -93,7 +93,7 @@
     "slug": "stodden",
     "status": "up",
     "uptime": "99.96%",
-    "time": 583
+    "time": 587
   },
   {
     "name": "snello1",
@@ -101,7 +101,7 @@
     "slug": "snello1",
     "status": "up",
     "uptime": "99.61%",
-    "time": 1324
+    "time": 1322
   },
   {
     "name": "snello2",
