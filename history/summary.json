@@ -67,9 +67,9 @@
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
-    "status": "down",
-    "uptime": "85.13%",
-    "time": 1053
+    "status": "up",
+    "uptime": "85.10%",
+    "time": 1065
   },
   {
     "name": "brandmaker",
