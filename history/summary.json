@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.90%",
-    "time": 598
+    "time": 595
   },
   {
     "name": "syntax",
@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.96%",
-    "time": 2325
+    "time": 2321
   },
   {
     "name": "scnem",
@@ -21,7 +21,7 @@
     "slug": "scnem",
     "status": "up",
     "uptime": "99.98%",
-    "time": 687
+    "time": 686
   },
   {
     "name": "scnem2",
@@ -29,7 +29,7 @@
     "slug": "scnem2",
     "status": "up",
     "uptime": "99.93%",
-    "time": 677
+    "time": 676
   },
   {
     "name": "scnem3",
@@ -37,7 +37,7 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.97%",
-    "time": 635
+    "time": 634
   },
   {
     "name": "geb haus soe",
@@ -45,7 +45,7 @@
     "slug": "geb-haus-soe",
     "status": "up",
     "uptime": "98.60%",
-    "time": 663
+    "time": 657
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.76%",
-    "time": 1678
+    "time": 1686
   },
   {
     "name": "impu",
@@ -61,15 +61,15 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.85%",
-    "time": 1168
+    "time": 1163
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "85.27%",
-    "time": 1067
+    "uptime": "85.28%",
+    "time": 1065
   },
   {
     "name": "brandmaker",
@@ -77,7 +77,7 @@
     "slug": "brandmaker",
     "status": "up",
     "uptime": "100.00%",
-    "time": 812
+    "time": 816
   },
   {
     "name": "sc er",
@@ -93,7 +93,7 @@
     "slug": "stodden",
     "status": "up",
     "uptime": "99.96%",
-    "time": 585
+    "time": 584
   },
   {
     "name": "snello1",
@@ -101,7 +101,7 @@
     "slug": "snello1",
     "status": "up",
     "uptime": "99.64%",
-    "time": 1300
+    "time": 1298
   },
   {
     "name": "snello2",
@@ -109,6 +109,6 @@
     "slug": "snello2",
     "status": "up",
     "uptime": "99.63%",
-    "time": 1025
+    "time": 1024
   }
 ]
