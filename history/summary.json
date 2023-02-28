@@ -76,7 +76,7 @@
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "99.97%",
     "time": 802
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
     "status": "down",
-    "uptime": "99.98%",
+    "uptime": "99.95%",
     "time": 815
   },
   {
@@ -99,16 +99,16 @@
     "name": "snello1",
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "time": 1440
+    "time": 1430
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "down",
-    "uptime": "99.64%",
+    "uptime": "99.59%",
     "time": 1296
   }
 ]
