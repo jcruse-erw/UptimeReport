@@ -68,24 +68,24 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "85.42%",
+    "uptime": "85.43%",
     "time": 1053
   },
   {
     "name": "brandmaker",
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 813
+    "time": 802
   },
   {
     "name": "sc er",
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 821
+    "time": 815
   },
   {
     "name": "stodden",
@@ -107,8 +107,8 @@
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "time": 1029
+    "time": 1296
   }
 ]
