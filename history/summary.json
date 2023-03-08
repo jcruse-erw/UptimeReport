@@ -11,9 +11,9 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "time": 2097
+    "time": 2089
   },
   {
     "name": "scnem",
@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "time": 1625
+    "time": 1597
   },
   {
     "name": "impu",
@@ -76,7 +76,7 @@
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
     "status": "down",
-    "uptime": "98.21%",
+    "uptime": "98.20%",
     "time": 744
   },
   {
