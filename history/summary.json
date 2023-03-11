@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.90%",
-    "time": 550
+    "time": 552
   },
   {
     "name": "syntax",
@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.96%",
-    "time": 2079
+    "time": 2077
   },
   {
     "name": "scnem",
@@ -37,7 +37,7 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.97%",
-    "time": 625
+    "time": 626
   },
   {
     "name": "geb haus soe",
@@ -45,7 +45,7 @@
     "slug": "geb-haus-soe",
     "status": "up",
     "uptime": "98.63%",
-    "time": 631
+    "time": 625
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.76%",
-    "time": 1607
+    "time": 1628
   },
   {
     "name": "impu",
@@ -61,31 +61,31 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.85%",
-    "time": 1162
+    "time": 1160
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "85.61%",
-    "time": 1052
+    "uptime": "85.62%",
+    "time": 1053
   },
   {
     "name": "brandmaker",
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
     "status": "down",
-    "uptime": "97.80%",
-    "time": 728
+    "uptime": "97.73%",
+    "time": 720
   },
   {
     "name": "sc er",
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
     "status": "down",
-    "uptime": "97.66%",
-    "time": 740
+    "uptime": "97.59%",
+    "time": 730
   },
   {
     "name": "stodden",
@@ -93,22 +93,22 @@
     "slug": "stodden",
     "status": "up",
     "uptime": "99.96%",
-    "time": 558
+    "time": 559
   },
   {
     "name": "snello1",
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
     "status": "down",
-    "uptime": "95.94%",
-    "time": 1090
+    "uptime": "95.83%",
+    "time": 1079
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "down",
-    "uptime": "96.03%",
-    "time": 1195
+    "uptime": "95.92%",
+    "time": 1185
   }
 ]
