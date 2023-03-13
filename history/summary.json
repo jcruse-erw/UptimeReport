@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "time": 1711
+    "time": 1709
   },
   {
     "name": "impu",
@@ -76,7 +76,7 @@
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
     "status": "down",
-    "uptime": "97.30%",
+    "uptime": "97.29%",
     "time": 705
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
     "status": "down",
-    "uptime": "97.13%",
+    "uptime": "97.12%",
     "time": 715
   },
   {
