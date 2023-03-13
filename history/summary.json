@@ -51,9 +51,9 @@
     "name": "audience",
     "url": "https://www.audience-soest.de",
     "slug": "audience",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "time": 1709
+    "time": 1691
   },
   {
     "name": "impu",
@@ -68,7 +68,7 @@
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "85.65%",
+    "uptime": "85.67%",
     "time": 1053
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
     "status": "down",
-    "uptime": "97.29%",
+    "uptime": "97.14%",
     "time": 705
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
     "status": "down",
-    "uptime": "97.12%",
+    "uptime": "96.96%",
     "time": 715
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
     "status": "down",
-    "uptime": "95.13%",
+    "uptime": "94.88%",
     "time": 1062
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "down",
-    "uptime": "95.22%",
+    "uptime": "94.97%",
     "time": 1168
   }
 ]
