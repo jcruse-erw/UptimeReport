@@ -11,9 +11,9 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "time": 2427
+    "time": 2442
   },
   {
     "name": "scnem",
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "down",
-    "uptime": "94.17%",
+    "uptime": "94.16%",
     "time": 1136
   }
 ]
