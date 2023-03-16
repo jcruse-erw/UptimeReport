@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.90%",
-    "time": 547
+    "time": 546
   },
   {
     "name": "syntax",
@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.96%",
-    "time": 2352
+    "time": 2437
   },
   {
     "name": "scnem",
@@ -21,7 +21,7 @@
     "slug": "scnem",
     "status": "up",
     "uptime": "99.98%",
-    "time": 668
+    "time": 670
   },
   {
     "name": "scnem2",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.76%",
-    "time": 1872
+    "time": 2148
   },
   {
     "name": "impu",
@@ -69,23 +69,23 @@
     "slug": "seeva",
     "status": "up",
     "uptime": "85.70%",
-    "time": 1057
+    "time": 1055
   },
   {
     "name": "brandmaker",
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
     "status": "down",
-    "uptime": "96.73%",
-    "time": 689
+    "uptime": "96.71%",
+    "time": 683
   },
   {
     "name": "sc er",
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
     "status": "down",
-    "uptime": "96.54%",
-    "time": 701
+    "uptime": "96.51%",
+    "time": 695
   },
   {
     "name": "stodden",
@@ -100,15 +100,15 @@
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
     "status": "down",
-    "uptime": "94.23%",
-    "time": 1045
+    "uptime": "94.19%",
+    "time": 1033
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "down",
-    "uptime": "94.32%",
-    "time": 1147
+    "uptime": "94.28%",
+    "time": 1136
   }
 ]
