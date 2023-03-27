@@ -5,7 +5,7 @@
     "slug": "erw",
     "status": "up",
     "uptime": "99.90%",
-    "time": 542
+    "time": 547
   },
   {
     "name": "syntax",
@@ -13,7 +13,7 @@
     "slug": "syntax",
     "status": "up",
     "uptime": "99.96%",
-    "time": 2681
+    "time": 2678
   },
   {
     "name": "scnem",
@@ -21,7 +21,7 @@
     "slug": "scnem",
     "status": "up",
     "uptime": "99.98%",
-    "time": 683
+    "time": 684
   },
   {
     "name": "scnem2",
@@ -37,7 +37,7 @@
     "slug": "scnem3",
     "status": "up",
     "uptime": "99.97%",
-    "time": 640
+    "time": 641
   },
   {
     "name": "geb haus soe",
@@ -45,7 +45,7 @@
     "slug": "geb-haus-soe",
     "status": "up",
     "uptime": "98.66%",
-    "time": 619
+    "time": 627
   },
   {
     "name": "audience",
@@ -53,7 +53,7 @@
     "slug": "audience",
     "status": "up",
     "uptime": "99.76%",
-    "time": 1943
+    "time": 1965
   },
   {
     "name": "impu",
@@ -61,31 +61,31 @@
     "slug": "impu",
     "status": "up",
     "uptime": "99.85%",
-    "time": 1165
+    "time": 1166
   },
   {
     "name": "seeva",
     "url": "https://seeva.e-raumwerk.de",
     "slug": "seeva",
     "status": "up",
-    "uptime": "85.88%",
-    "time": 1040
+    "uptime": "85.89%",
+    "time": 1042
   },
   {
     "name": "brandmaker",
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
     "status": "down",
-    "uptime": "94.61%",
-    "time": 607
+    "uptime": "94.54%",
+    "time": 601
   },
   {
     "name": "sc er",
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
     "status": "down",
-    "uptime": "94.30%",
-    "time": 617
+    "uptime": "94.23%",
+    "time": 610
   },
   {
     "name": "stodden",
@@ -93,22 +93,22 @@
     "slug": "stodden",
     "status": "up",
     "uptime": "99.96%",
-    "time": 565
+    "time": 568
   },
   {
     "name": "snello1",
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
     "status": "down",
-    "uptime": "90.89%",
-    "time": 927
+    "uptime": "90.78%",
+    "time": 912
   },
   {
     "name": "snello2",
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "down",
-    "uptime": "90.98%",
-    "time": 1042
+    "uptime": "90.87%",
+    "time": 1037
   }
 ]
