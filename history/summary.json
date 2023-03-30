@@ -11,9 +11,9 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "time": 2662
+    "time": 2712
   },
   {
     "name": "scnem",
@@ -76,7 +76,7 @@
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
     "status": "down",
-    "uptime": "93.96%",
+    "uptime": "93.87%",
     "time": 585
   },
   {
@@ -84,7 +84,7 @@
     "url": "https://sc-networks.azurewebsites.net/",
     "slug": "sc-er",
     "status": "down",
-    "uptime": "93.62%",
+    "uptime": "93.52%",
     "time": 596
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://snello-demo-live.azurewebsites.net/",
     "slug": "snello1",
     "status": "down",
-    "uptime": "89.90%",
+    "uptime": "89.75%",
     "time": 893
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://snello.azurewebsites.net/",
     "slug": "snello2",
     "status": "down",
-    "uptime": "89.98%",
+    "uptime": "89.83%",
     "time": 1019
   }
 ]
