@@ -11,9 +11,9 @@
     "name": "syntax",
     "url": "https://syntax-systems.com",
     "slug": "syntax",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "time": 2712
+    "time": 2718
   },
   {
     "name": "scnem",
@@ -76,7 +76,7 @@
     "url": "https://brandmaker.azurewebsites.net",
     "slug": "brandmaker",
     "status": "down",
-    "uptime": "93.87%",
+    "uptime": "93.86%",
     "time": 585
   },
   {
